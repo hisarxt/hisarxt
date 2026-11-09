@@ -1,1 +1,2 @@
-
+<p align="center"> <img src="./assets/terminal.svg" width="960" alt="Terminal de hisarxt com a espiral Debian em ASCII. Arthur Fernandes Alencar — Java, Spring Boot, JPA e PostgreSQL." /> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/artxrz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn" /></a> <a href="https://github.com/hisarxt?tab=repositories"><img src="https://img.shields.io/badge/Projetos-181717?style=flat-square&logo=github&logoColor=white" alt="Repositórios no GitHub" /></a> <a href="https://www.debian.org/"><img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" alt="Debian" /></a> </p>
